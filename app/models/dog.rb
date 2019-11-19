@@ -8,4 +8,7 @@ class Dog
     @age = age
     DOGS << self
   end
+
+  def self.all
+    DOGSend
 end
