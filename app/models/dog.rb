@@ -10,5 +10,6 @@ class Dog
   end
 
   def self.all
-    DOGSend
+    DOGS
+  end
 end
